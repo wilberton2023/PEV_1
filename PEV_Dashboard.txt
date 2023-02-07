@@ -1,108 +1,184 @@
 {
   "indicators": [
     {
-      "name": "CSB TCC",
+      "name": "Stratégie avancée",
       "type": "indicator",
-      "dhisID": "MG50SMpXlXU",
-      "dhisName": "CSB PF Taux de couverture contraceptive",
+      "dhisID": "LxvnXK4qvZx",
+      "dhisName": "T14: Stratégie avancée réalisée",
       "groupCode": "G1"
     },
     {
-      "name": "CHRD TCC",
+      "name": "CSB PEV Nombre d'enfants sous vacciné <1 an",
       "type": "indicator",
-      "dhisID": "mo9Gm4aAp7n",
-      "dhisName": "CHRD Taux de couverture contraceptive au niveau CHRD",
+      "dhisID": "rLbF7Hb3I2c",
+      "dhisName": "CSB PEV Nombre d'enfants sous vacciné <1 an",
+      "groupCode": "G1"
+    },
+	    {
+      "name": "CSB PEV Nombre d'enfants zéro dose",
+      "type": "indicator",
+      "dhisID": "t8nlJWqqeJQ",
+      "dhisName": "CSB PEV Nombre d'enfants zéro dose",
       "groupCode": "G1"
     },
     {
-      "name": "COM TCC",
+      "name": "Taux de couverture VAR 2",
       "type": "indicator",
-      "dhisID": "i0n8zCQ56wj",
-      "dhisName": "COM Taux de couverture contraceptive",
-      "groupCode": "G1"
-    },
-    {
-      "name": "CSB NU",
-      "type": "indicator",
-      "dhisID": "IcYYNQAX1r9",
-      "dhisName": "CSB PF Nombre Total de Nouveaux utilisateurs",
+      "dhisID": "HCGOKBkyLv4",
+      "dhisName": "CSB PEV Taux de couverture VAR 2,
       "groupCode": "G2"
     },
     {
-      "name": "COM NU",
+      "name": "Taux de couverture en VPI2",
       "type": "indicator",
-      "dhisID": "iXyvc4Hq7i1",
-      "dhisName": "COM Nombre total de nouveaux utilisateurs de contraception modernes",
+      "dhisID": " ",
+      "dhisName": "CSB PEV Taux de couverture en VPI2",
       "groupCode": "G2"
     },
     {
-      "name": "CSB UR",
+      "name": "CV n DTCHepBHib3 des enfants de <1 an",
       "type": "indicator",
-      "dhisID": "PrVQm0PtNYO",
-      "dhisName": "CSB PF Nombre Total d'Utilisateurs Réguliers",
+      "dhisID": "efPKzjWUz3V",
+      "dhisName": "CSB PEV Taux de couverture vaccinale en DTCHepBHib3 des enfants de <1 an",
+      "groupCode": "G2"
+    },
+    {
+      "name": "TAB DTCHepHib1 et DTCHepHib3",
+      "type": "indicator",
+      "dhisID": ""	vmoI1oNnImB"",
+      "dhisName": "CSB PEV Taux d’abandon entre: DTCHepHib1 et DTCHepHib3",
+      "groupCode": "G2"
+    },
+    {
+      "name": "TAB DTCHepHib1 et VAR/RR1",
+      "type": "indicator",
+      "dhisID": "h92R4nVDgfR",
+      "dhisName": "CSB PEV Taux d’abandon entre: DTCHepHib1 et VAR/RR1",
+      "groupCode": "G2"
+    },
+    {
+      "name": "Proportion de MAPI Graves investiguées",
+      "type": "indicator",
+      "dhisID": "X1f9OZMc1dg",
+      "dhisName": "CSB PEV Proportion de MAPI Graves investiguées",
       "groupCode": "G3"
     },
     {
-      "name": "CSB UR DIU et Copper Tcu 380",
+      "name": "Proportion des enfants 0-11 mois protégés contre TNN à la naissance",
       "type": "indicator",
-      "dhisID": "mHCQCb0kYFN",
-      "dhisName": "CSB PF UR barriere DIUetCopper Tcu 380",
+      "dhisID": "lKMV2o3IdvX",
+      "dhisName": "CSB PEV Proportion des enfants 0-11 mois protégés contre TNN à la naissance",
       "groupCode": "G3"
     },
     {
-      "name": "CSB UR DMPA-IM",
+      "name": "Proportion des enfants de 0 à 15 ans présentant des cas de PFA",
       "type": "indicator",
-      "dhisID": "advYaTfEO7G",
-      "dhisName": "CSB PF UR contraceptif injectable  DMPA-IM",
-      "groupCode": "G3"
-    },
-    {
-      "name": "CSB UR DMPA-SC",
-      "type": "indicator",
-      "dhisID": "eg1QoO5YSah",
-      "dhisName": "CSB PF UR contraceptif injectable  DMPA-SC",
+      "dhisID": "GRk2sPBIVtA",
+      "dhisName": "CSB PEV Proportion des enfants de 0 à 15 ans présentant des cas de PFA",
       "groupCode": "G3"
     },
 	{
-      "name": "CSB UR implanon NXT",
+      "name": "Proportion des cas suspect de rougeole dans la population",
       "type": "indicator",
-      "dhisID": "XYr2UBAqIia",
-      "dhisName": "CSB PF UR implants implanon NXT",
+      "dhisID": "ti76fhWnU4x",
+      "dhisName": "CSB PEV proportion des cas suspect de rougeole dans la population",
       "groupCode": "G3"
     },
 	{
-      "name": "CSB UR lofemenal et microgynon",
+      "name": "Proportion de sensibilisation sur la vaccination",
       "type": "indicator",
-      "dhisID": "hpZytEmks8e",
-      "dhisName": "CSB PF UR contraceptif oraux lofemenal et microgynon",
-      "groupCode": "G3"
-    },
-    {
-      
-      "dhisName": "Taux de perdues de vue total",
+      "dhisID": "XI8Z5J6V7vi",
+      "dhisName": "Proportion de sensibilisation sur la vaccination",
       "groupCode": "G4"
     },
-    }
+	{
+      "name": "Proportion de sensibilisation et dialogue communautaire",
+      "type": "indicator",
+      "dhisID": "LIINtfKxhQf",
+      "dhisName": "CSB PEV Proportion dialogues communautaires",
+      "groupCode": "G4"
+    },
+    {
+      "name": "jour de rupture en BCG",
+      "type": "indicator",
+      "dhisID": "p1OeDqpYnDe",
+      "dhisName": "Nombre de jour de rupture en BCG",
+      "groupCode": "G5"
+    },
+	{
+      "name": "jour de rupture en DTC Hep B Hib",
+      "type": "indicator",
+      "dhisID": "p1w5og46dSc",
+      "dhisName": "Nombre de jour de rupture en DTC Hep B Hib",
+      "groupCode": "G5"
+    },
+	{
+      "name": "jour de rupture en PCV 10",
+      "type": "indicator",
+      "dhisID": "i5CBTeYCxd0",
+      "dhisName": "Nombre de jour de rupture en PCV 10",
+      "groupCode": "G5"
+    },
+	{
+      "name": "jour de rupture en Rotavirus",
+      "type": "indicator",
+      "dhisID": "YIQRRWog2wq",
+      "dhisName": "Nombre de jour de rupture en Rotavirus",
+      "groupCode": "G5"
+    },
+	{
+      "name": "jour de rupture en VAR",
+      "type": "indicator",
+      "dhisID": "jdY4cIlsC5i",
+      "dhisName": "Nombre de jour de rupture en VAR",
+      "groupCode": "G5"
+	 },
+	{
+      "name": "Jour de rupture en Td",
+      "type": "indicator",
+      "dhisID": "iMYbnmZQzem",
+      "dhisName": "Nombre de jour de rupture en Td",
+      "groupCode": "G5"
+    },
+	{
+      "name": "jour de rupture en VPI",
+      "type": "indicator",
+      "dhisID": "HZJWh7iQrYB",
+      "dhisName": "Nombre de jour de rupture en VPI",
+      "groupCode": "G5"
+    },
+	{
+      "name": "jour de rupture en VPO",
+      "type": "indicator",
+      "dhisID": "JNxwQChUChD",
+      "dhisName": "Nombre de jour de rupture en VPO",
+      "groupCode": "G5"
+     }
   ],
   "indicatorGroup": [
     {
       "code": "G1",
-      "name": "Couverture contraceptive",
-      "titre": "taux de couverture contraceptive"
+      "name": "Prestation",
+      "titre": "Nombre de zéro dose et de sous vaccinés et stratégie avancé"
     },
     {
       "code": "G2",
-      "name": "Nouvelles utilisatrices",
-      "titre": "Nombre des nouvelles utilisatrices contraceptives"
+      "name": "Suivi",
+      "titre": "Couverture vaccinale et abandon"
     },
     {
       "code": "G3",
-      "name": "Utilisateurs réguliers",
-      "titre": "Suivi des UR PF"
+      "name": "SMEV",
+      "titre": "Proportion de MAPI et MEV"
     },
     {
       "code": "G4",
-      "name": "PDV",
-      "titre": "Taux de perdue de vue"
+      "name": "Mobilisation sociale",
+      "titre": "Proportion de sensibilisation et dialogue communautaire"
+    },   
+	{
+      "code": "G5",
+      "name": "Logistique",
+      "titre": "Nombre de jour de rupture"
     },   
     }
