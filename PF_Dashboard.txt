@@ -78,9 +78,7 @@
       "groupCode": "G3"
     },
     {
-      "name": "CSB PDV",
-      "type": "indicator",
-      "dhisID": "k1ouDe1xASm",
+      
       "dhisName": "Taux de perdues de vue total",
       "groupCode": "G4"
     },
