@@ -1,0 +1,110 @@
+{
+  "indicators": [
+    {
+      "name": "CSB TCC",
+      "type": "indicator",
+      "dhisID": "MG50SMpXlXU",
+      "dhisName": "CSB PF Taux de couverture contraceptive",
+      "groupCode": "G1"
+    },
+    {
+      "name": "CHRD TCC",
+      "type": "indicator",
+      "dhisID": "mo9Gm4aAp7n",
+      "dhisName": "CHRD Taux de couverture contraceptive au niveau CHRD",
+      "groupCode": "G1"
+    },
+    {
+      "name": "COM TCC",
+      "type": "indicator",
+      "dhisID": "i0n8zCQ56wj",
+      "dhisName": "COM Taux de couverture contraceptive",
+      "groupCode": "G1"
+    },
+    {
+      "name": "CSB NU",
+      "type": "indicator",
+      "dhisID": "IcYYNQAX1r9",
+      "dhisName": "CSB PF Nombre Total de Nouveaux utilisateurs",
+      "groupCode": "G2"
+    },
+    {
+      "name": "COM NU",
+      "type": "indicator",
+      "dhisID": "iXyvc4Hq7i1",
+      "dhisName": "COM Nombre total de nouveaux utilisateurs de contraception modernes",
+      "groupCode": "G2"
+    },
+    {
+      "name": "CSB UR",
+      "type": "indicator",
+      "dhisID": "PrVQm0PtNYO",
+      "dhisName": "CSB PF Nombre Total d'Utilisateurs Réguliers",
+      "groupCode": "G3"
+    },
+    {
+      "name": "CSB UR DIU et Copper Tcu 380",
+      "type": "indicator",
+      "dhisID": "mHCQCb0kYFN",
+      "dhisName": "CSB PF UR barriere DIUetCopper Tcu 380",
+      "groupCode": "G3"
+    },
+    {
+      "name": "CSB UR DMPA-IM",
+      "type": "indicator",
+      "dhisID": "advYaTfEO7G",
+      "dhisName": "CSB PF UR contraceptif injectable  DMPA-IM",
+      "groupCode": "G3"
+    },
+    {
+      "name": "CSB UR DMPA-SC",
+      "type": "indicator",
+      "dhisID": "eg1QoO5YSah",
+      "dhisName": "CSB PF UR contraceptif injectable  DMPA-SC",
+      "groupCode": "G3"
+    },
+	{
+      "name": "CSB UR implanon NXT",
+      "type": "indicator",
+      "dhisID": "XYr2UBAqIia",
+      "dhisName": "CSB PF UR implants implanon NXT",
+      "groupCode": "G3"
+    },
+	{
+      "name": "CSB UR lofemenal et microgynon",
+      "type": "indicator",
+      "dhisID": "hpZytEmks8e",
+      "dhisName": "CSB PF UR contraceptif oraux lofemenal et microgynon",
+      "groupCode": "G3"
+    },
+    {
+      "name": "CSB PDV",
+      "type": "indicator",
+      "dhisID": "k1ouDe1xASm",
+      "dhisName": "Taux de perdues de vue total",
+      "groupCode": "G4"
+    },
+    }
+  ],
+  "indicatorGroup": [
+    {
+      "code": "G1",
+      "name": "Couverture contraceptive",
+      "titre": "taux de couverture contraceptive"
+    },
+    {
+      "code": "G2",
+      "name": "Nouvelles utilisatrices",
+      "titre": "Nombre des nouvelles utilisatrices contraceptives"
+    },
+    {
+      "code": "G3",
+      "name": "Utilisateurs réguliers",
+      "titre": "Suivi des UR PF"
+    },
+    {
+      "code": "G4",
+      "name": "PDV",
+      "titre": "Taux de perdue de vue"
+    },   
+    }
